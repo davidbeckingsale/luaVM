@@ -1,8 +1,8 @@
 # LuaVM
 
 LuaVM is an incredibly simple VM written in Lua. Inspired Felix Angell's
-['Writing a Virtual Machine in C'][vmctut] article, and the corresponding
-[repostiory][vmcrepo], this one in written in Lua!
+['Writing a Virtual Machine in C'][vmctut] article and the corresponding
+[repository][vmcrepo], this one in written in Lua!
 
 ## Instructions
 
